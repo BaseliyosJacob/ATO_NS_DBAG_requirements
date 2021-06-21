@@ -20,7 +20,7 @@
 - Description of the Operational Context
 - Specificatoin fo the transitions between the different Operatoinal Contexts"
 	
-### 1.5 Non functiional specification	"
+### 1.5 Non functional specification	"
 - Assumptions
 - Environment conditions
 - Reliability, Availability and Maintainability
